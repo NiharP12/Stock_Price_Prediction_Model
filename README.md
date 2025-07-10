@@ -73,3 +73,24 @@ In the Python phase of this project:
 
   ![LinePlot](https://github.com/user-attachments/assets/17039ca9-4799-49df-8808-bf2dda291424)
 
+#Conclusion:
+
+In this project, we successfully built an end-to-end stock price prediction system for Reliance Industries by combining the data cleaning power of Power BI with the predictive capabilities of Machine Learning in Python.
+
+Key outcomes:
+
+- Power BI was used to clean raw stock data, transform data types, and export a structured dataset.
+
+- Python was used to engineer features, train regression models, and evaluate performance.
+
+- We implemented and compared two models:
+
+  - Linear Regression (Accuracy: 99.24%, RMSE: 6.14)
+
+  - XGBoost Regressor (Accuracy: 98.87%, RMSE: 7.47)
+
+- Despite XGBoost’s complexity, Linear Regression performed better on this dataset, showing that simple models can be highly effective with well-prepared data.
+
+- The final prediction results were visualized using scatter plots and trend lines, demonstrating strong alignment between actual and predicted prices.
+
+This project proves that with clean data and proper feature engineering, traditional ML models can provide accurate and reliable predictions — even in volatile domains like stock markets.

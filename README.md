@@ -73,7 +73,8 @@ In the Python phase of this project:
 
   ![LinePlot](https://github.com/user-attachments/assets/17039ca9-4799-49df-8808-bf2dda291424)
 
-#Conclusion:
+
+# Conclusion:
 
 In this project, we successfully built an end-to-end stock price prediction system for Reliance Industries by combining the data cleaning power of Power BI with the predictive capabilities of Machine Learning in Python.
 

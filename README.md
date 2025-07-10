@@ -70,3 +70,6 @@ In the Python phase of this project:
     - RMSE: 7.47
 
 - Plotted Actual vs Predicted close prices using Linear Regression
+
+  ![LinePlot](https://github.com/user-attachments/assets/17039ca9-4799-49df-8808-bf2dda291424)
+
